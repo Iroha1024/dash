@@ -1,5 +1,7 @@
 ## dash
 
+如果这个项目对你有一点帮助的话，请点击右上角star，谢谢！！！
+
 演示：<https://iroha1024.github.io/dash/>
 
 ![](https://github.com/Iroha1024/gallery/blob/master/dash/QR%20code.png)
