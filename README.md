@@ -4,6 +4,8 @@
 
 演示：<https://iroha1024.github.io/dash/>
 
+github在线演示可能有点问题_(¦3」∠)_
+
 ![](https://github.com/Iroha1024/gallery/blob/master/dash/QR%20code.png)
 
 ## 游戏介绍
